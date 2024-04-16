@@ -33,7 +33,7 @@ Java 11
 xampp
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/httpsguga/projeto-springboot3-jpa
 
 # executar o projeto
 ./mvnw spring-boot:run
